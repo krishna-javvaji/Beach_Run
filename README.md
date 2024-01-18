@@ -3,7 +3,7 @@
 **Team:** Bahubali Creative Studios
 
 ## Game Details
-- **Game Title:** Gun N Win
+- **Game Title:** Beach Run
 - **Game Rating:** Everyone (pending)
 - **Genre:** 2D platformer/Platform Shooter
 
